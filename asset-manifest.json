@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/zooapp/static/css/main.d77232ad.chunk.css",
+    "main.js": "/zooapp/static/js/main.7e891d13.chunk.js",
+    "main.js.map": "/zooapp/static/js/main.7e891d13.chunk.js.map",
+    "runtime-main.js": "/zooapp/static/js/runtime-main.1a259562.js",
+    "runtime-main.js.map": "/zooapp/static/js/runtime-main.1a259562.js.map",
+    "static/js/2.210e2fcf.chunk.js": "/zooapp/static/js/2.210e2fcf.chunk.js",
+    "static/js/2.210e2fcf.chunk.js.map": "/zooapp/static/js/2.210e2fcf.chunk.js.map",
+    "static/js/3.d86736fc.chunk.js": "/zooapp/static/js/3.d86736fc.chunk.js",
+    "static/js/3.d86736fc.chunk.js.map": "/zooapp/static/js/3.d86736fc.chunk.js.map",
+    "index.html": "/zooapp/index.html",
+    "service-worker.js": "/zooapp/service-worker.js",
+    "service-worker.js.map": "/zooapp/service-worker.js.map",
+    "static/css/main.d77232ad.chunk.css.map": "/zooapp/static/css/main.d77232ad.chunk.css.map",
+    "static/js/2.210e2fcf.chunk.js.LICENSE.txt": "/zooapp/static/js/2.210e2fcf.chunk.js.LICENSE.txt",
+    "static/media/blackwarmup.e83c7819.jpg": "/zooapp/static/media/blackwarmup.e83c7819.jpg",
+    "static/media/frankfuro.b52e94e3.jpg": "/zooapp/static/media/frankfuro.b52e94e3.jpg",
+    "static/media/zoofcbadge.0cca5a3a.jpg": "/zooapp/static/media/zoofcbadge.0cca5a3a.jpg",
+    "static/media/zoofclogo.0cca5a3a.png": "/zooapp/static/media/zoofclogo.0cca5a3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a259562.js",
+    "static/js/2.210e2fcf.chunk.js",
+    "static/css/main.d77232ad.chunk.css",
+    "static/js/main.7e891d13.chunk.js"
+  ]
+}
